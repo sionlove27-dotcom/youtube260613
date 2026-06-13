@@ -1,1 +1,10 @@
-
+streamlit
+google-api-python-client
+pandas
+numpy
+matplotlib
+wordcloud
+pillow
+konlpy
+scikit-learn
+networkx
